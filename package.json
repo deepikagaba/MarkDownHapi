@@ -19,8 +19,16 @@
   "devDependencies": {},
   "scripts": {
     "test": "mocha",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "Deepika Gaba",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepikagaba/MarkDownHapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepikagaba/MarkDownHapi/issues"
+  },
+  "homepage": "https://github.com/deepikagaba/MarkDownHapi#readme"
 }
